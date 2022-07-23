@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring01/spring01ioc.iml" filepath="$PROJECT_DIR$/spring01/spring01ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring02/spring02入门.iml" filepath="$PROJECT_DIR$/spring02/spring02入门.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring03/spring03jdbc.iml" filepath="$PROJECT_DIR$/spring03/spring03jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring04/spring04mvc.iml" filepath="$PROJECT_DIR$/spring04/spring04mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring05/spring05text.iml" filepath="$PROJECT_DIR$/spring05/spring05text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring06/spring06mvc增加删除登入.iml" filepath="$PROJECT_DIR$/spring06/spring06mvc增加删除登入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring07/spring07拦截器.iml" filepath="$PROJECT_DIR$/spring07/spring07拦截器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring08/spring08异常跳转.iml" filepath="$PROJECT_DIR$/spring08/spring08异常跳转.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring09/spring09Aop.iml" filepath="$PROJECT_DIR$/spring09/spring09Aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring11mybatis/spring11mybatis.iml" filepath="$PROJECT_DIR$/spring11mybatis/spring11mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring12mybatisdao/spring12mybatisdao.iml" filepath="$PROJECT_DIR$/spring12mybatisdao/spring12mybatisdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring13mybatismapper/spring13mybatismapper.iml" filepath="$PROJECT_DIR$/spring13mybatismapper/spring13mybatismapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring14mybatisconfig/spring14mybatisconfig.iml" filepath="$PROJECT_DIR$/spring14mybatisconfig/spring14mybatisconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring15mybatismulti/spring15mybatismulti.iml" filepath="$PROJECT_DIR$/spring15mybatismulti/spring15mybatismulti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring16mybatis注解/spring16mybatis注解.iml" filepath="$PROJECT_DIR$/spring16mybatis注解/spring16mybatis注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring17ssm/spring17ssm.iml" filepath="$PROJECT_DIR$/spring17ssm/spring17ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srping10/srping10事务控制.iml" filepath="$PROJECT_DIR$/srping10/srping10事务控制.iml" />
+    </modules>
+  </component>
+</project>

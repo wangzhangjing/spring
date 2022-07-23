@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--1 构造方法实例化bean-->
+<!--    <bean id="userDao" class="com.itheima.dao.impl.Userdaolmpl" init-method="init" destroy-method="destory"></bean>-->
+<!--   2 使用静态工程实例化bean-->
+<!--    <bean id="userDao" class="com.itheima.factory.StaticFactory " factory-method="getUserDao"></bean>-->
+<!--    3使用实例工厂实例化对象-->
+<!--    <bean id="factory" class="com.itheima.factory.DynamicFactory"></bean>-->
+<!--    <bean id="userDao" factory-bean="factory" factory-method="getUserDao"/>-->
+    <bean id="userDao" class="com.itheima.dao.impl.Userdaolmpl"></bean>
+<!--    <bean id="userService" class="com.itheima.impl.UserServiceimpl"></bean>-->
+    <bean id="userService" class="com.itheima.impl.UserServiceimpl" />
+
+</beans>

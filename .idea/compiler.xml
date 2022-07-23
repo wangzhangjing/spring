@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring13mybatismapper" />
+        <module name="spring02入门" />
+        <module name="spring08异常跳转" />
+        <module name="spring09Aop" />
+        <module name="spring11mybatis" />
+        <module name="srping10事务控制" />
+        <module name="spring05text" />
+        <module name="spring07拦截器" />
+        <module name="spring04mvc" />
+        <module name="spring17ssm" />
+        <module name="spring14mybatisconfig" />
+        <module name="spring06mvc增加删除登入" />
+        <module name="spring12mybatisdao" />
+        <module name="spring16mybatis注解" />
+        <module name="spring15mybatismulti" />
+        <module name="spring03jdbc" />
+        <module name="spring01ioc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring01ioc" target="1.5" />
+      <module name="spring02入门" target="1.5" />
+      <module name="spring03jdbc" target="1.5" />
+      <module name="spring04mvc" target="1.5" />
+      <module name="spring05text" target="1.5" />
+      <module name="spring06mvc增加删除登入" target="1.5" />
+      <module name="spring07拦截器" target="1.5" />
+      <module name="spring08异常跳转" target="1.5" />
+      <module name="spring09Aop" target="1.5" />
+      <module name="spring11mybatis" target="1.5" />
+      <module name="spring12mybatisdao" target="1.5" />
+      <module name="spring13mybatismapper" target="1.5" />
+      <module name="spring14mybatisconfig" target="1.5" />
+      <module name="spring15mybatismulti" target="1.5" />
+      <module name="spring16mybatis注解" target="1.5" />
+      <module name="spring17ssm" target="1.8" />
+      <module name="srping10事务控制" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

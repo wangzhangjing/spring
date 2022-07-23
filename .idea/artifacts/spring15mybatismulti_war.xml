@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring15mybatismulti:war">
+    <output-path>$PROJECT_DIR$/spring15mybatismulti/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring15mybatismulti</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring15mybatis.multi-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring15mybatismulti:war exploded" />
+    </root>
+  </artifact>
+</component>

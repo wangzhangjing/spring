@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring04:war" />
+      <artifact name="spring17ssm:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c334c12e-e6f6-4ab8-ab3c-9f88af93d546" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/spring16mybatis注解/src/main/java/com/wzj/mapper/UserMapper1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring11mybatis/src/main/resources/com/wzj/mapper/UserMapper.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring15mybatismulti/src/main/java/com/wzj/mapper/UserMapper.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring12mybatisdao/src/main/java/com/wzj/dao/UserMapper.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring11mybatis/src/test/java/com/wzj/text/Mybatis.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2AxX8uSOcR92m04ZtoroOu3uwn1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/spring11mybatis/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring17ssm/src/main/resources" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17480469" />
+    <property name="project.structure.side.proportion" value="0.5931198" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wzj.dao" />
+      <recent name="com.wzj.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\spring\spring17ssm\src\main\resources" />
+      <recent name="D:\workspace\spring\spring17ssm\src\main\webapp" />
+      <recent name="D:\workspace\spring\spring17ssm\src\main\webapp\WEB-INF" />
+      <recent name="D:\workspace\spring\spring16mybatis注解\src\main\resources" />
+      <recent name="D:\workspace\spring\spring15mybatismulti\src\main\resources\com\wzj\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wzj.test" />
+      <recent name="com.wzj.domain" />
+      <recent name="com.wzj.handler" />
+      <recent name="com.wzj.mapper" />
+      <recent name="daomain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\spring\spring12mybatisdao\src\main\resources\com\wzj\mapper" />
+      <recent name="D:\workspace\spring\spring12mybatisdao\src\main\resources" />
+      <recent name="D:\workspace\spring\spring11mybatis\src\main\resources" />
+      <recent name="D:\workspace\spring\spring08\src\main" />
+      <recent name="D:\workspace\spring\spring08\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.testfindi">
+    <configuration name="MyTest1.testfindAllll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring16mybatis注解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wzj.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wzj.test.MyTest1" />
+      <option name="METHOD_NAME" value="testfindAllll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="MyTest1.testfindAllllqq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring16mybatis注解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wzj.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wzj.test.MyTest1" />
+      <option name="METHOD_NAME" value="testfindAllllqq" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="MyTest2.testfindAllll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring16mybatis注解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wzj.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wzj.test.MyTest2" />
+      <option name="METHOD_NAME" value="testfindAllll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.testfindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring16mybatis注解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wzj.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wzj.test.MyTest" />
+      <option name="METHOD_NAME" value="testfindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.testfindi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring16mybatis注解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wzj.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wzj.test.MyTest" />
+      <option name="METHOD_NAME" value="testfindi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.68" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.68" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/spring17ssm_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="spring17ssm:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/spring17ssm_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55524" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring04:war" />
+          <artifact name="spring17ssm:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyTest.testfindi" />
+      <item itemvalue="JUnit.MyTest.testfindAll" />
+      <item itemvalue="JUnit.MyTest1.testfindAllll" />
+      <item itemvalue="JUnit.MyTest2.testfindAllll" />
+      <item itemvalue="JUnit.MyTest1.testfindAllllqq" />
+      <item itemvalue="Tomcat 服务器.Tomcat 8.5.68" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest2.testfindAllll" />
+        <item itemvalue="JUnit.MyTest1.testfindAllllqq" />
+        <item itemvalue="JUnit.MyTest1.testfindAllll" />
+        <item itemvalue="JUnit.MyTest.testfindAll" />
+        <item itemvalue="JUnit.MyTest.testfindi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c334c12e-e6f6-4ab8-ab3c-9f88af93d546" name="Default Changelist" comment="" />
+      <created>1655952053659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655952053659</updated>
+      <workItem from="1655952054795" duration="12523000" />
+      <workItem from="1655980781770" duration="4483000" />
+      <workItem from="1656030211507" duration="7143000" />
+      <workItem from="1656037686773" duration="626000" />
+      <workItem from="1656038486216" duration="1411000" />
+      <workItem from="1656039962212" duration="19000" />
+      <workItem from="1656039990869" duration="27000" />
+      <workItem from="1656040041041" duration="258000" />
+      <workItem from="1656040338751" duration="371000" />
+      <workItem from="1656040725718" duration="7527000" />
+      <workItem from="1656058445528" duration="2412000" />
+      <workItem from="1656120243830" duration="644000" />
+      <workItem from="1656120940905" duration="139000" />
+      <workItem from="1656121101666" duration="8912000" />
+      <workItem from="1656141292385" duration="8295000" />
+      <workItem from="1656153008055" duration="171000" />
+      <workItem from="1656206933725" duration="19824000" />
+      <workItem from="1656242697370" duration="8000" />
+      <workItem from="1656291120812" duration="3065000" />
+      <workItem from="1656294249144" duration="8007000" />
+      <workItem from="1656315498125" duration="12502000" />
+      <workItem from="1656376305587" duration="12268000" />
+      <workItem from="1656399888723" duration="10787000" />
+      <workItem from="1656463591641" duration="9191000" />
+      <workItem from="1656486663069" duration="3144000" />
+      <workItem from="1656493530455" duration="13000" />
+      <workItem from="1656577053355" duration="11110000" />
+      <workItem from="1656660058389" duration="14071000" />
+      <workItem from="1656676712508" duration="1696000" />
+      <workItem from="1656678453058" duration="4078000" />
+      <workItem from="1656683456433" duration="178000" />
+      <workItem from="1656722249170" duration="5486000" />
+      <workItem from="1656729520477" duration="1135000" />
+      <workItem from="1656730708719" duration="3437000" />
+      <workItem from="1656735072802" duration="131000" />
+      <workItem from="1656735230832" duration="230000" />
+      <workItem from="1656746354841" duration="5233000" />
+      <workItem from="1656751944290" duration="8098000" />
+      <workItem from="1656834517527" duration="16296000" />
+      <workItem from="1656896160118" duration="13749000" />
+      <workItem from="1656927015884" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/spring05/src/test/java/com/wzj/test/JdbcTemplateTest.java</url>
+          <line>29</line>
+          <properties class="com.wzj.test.JdbcTemplateTest" method="text2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring16mybatis注解/src/test/java/com/wzj/test/MyTest1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

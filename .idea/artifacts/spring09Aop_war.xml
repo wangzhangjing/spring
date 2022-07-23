@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring09Aop:war">
+    <output-path>$PROJECT_DIR$/spring09/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring09Aop</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring09-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring09Aop:war exploded" />
+    </root>
+  </artifact>
+</component>

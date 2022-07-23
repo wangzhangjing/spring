@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!--    通过加载propertion标签来加载外部jdbc配置-->
+    <properties resource="jdbc.properties"></properties>
+    <!--    自定义别名-->
+    <typeAliases>
+        <typeAlias type="com.wzj.domain.User1" alias="u"></typeAlias>
+
+    </typeAliases>
+    <!--    注册类型处理器-->
+    <typeHandlers>
+        <typeHandler handler="com.wzj.qwe.abc"></typeHandler>
+    </typeHandlers>
+<!--    &lt;!&ndash;    配置分页助手插件&ndash;&gt;-->
+<!--    <plugins>-->
+<!--        <plugin interceptor="com.github.pagehelper.PageHelper">-->
+<!--            <property name="dialect" value="mysql"/>-->
+<!--        </plugin>-->
+<!--    </plugins>-->
+<!--    数据源环境-->
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.url}"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+
+    </environments>
+<!--    <mappers>-->
+<!--        <mapper resource="com/wzj/mapper/UserMapper.xml"/>-->
+<!--    </mappers>-->
+<!--    加载映射关系todo-->
+    <mappers>
+        <package name="com.wzj.mapper"/>
+    </mappers>
+
+
+</configuration>
